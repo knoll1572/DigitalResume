@@ -1,5 +1,5 @@
 ## Education
-Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
+### Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
 
 ## Work Experience
 ### Software Engineer of Puma Project, Accutech | Muncie, IN | 10/2019 – 05/2020
