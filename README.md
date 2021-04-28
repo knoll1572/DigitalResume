@@ -1,12 +1,12 @@
-## About Me
-I am a graduate from Ball State University with a bachelor’s degree in Computer Science.  I have a passion for being able to create something new using code and I feel a great sense of accomplishment when doing so.  I am looking to enhance my academic goals, further future career prospects, refine skills required for interdisciplinary professional relationships, and better develop knowledge about computer programming.  On a personal level, I am deeply interested in learning to become an artisan of computer programming using knowledge I have already obtained, as well as information I have yet to learn.  I am most comfortable with front end development having a strong understanding of .net and React.js.  As a graduate of Ball State University’s undergraduate Computer Science program, I possess the problem-solving, organizational, critical thinking, and fundamental skills in order to strive for excellence within the company. 
+## Motivations and Goals
+I am a graduate from Ball State University with a Bachelor of Science in Computer Science. I have an astute determination for utilizing code to create something new; the entire process provides me with a great sense of accomplishment. I am looking to enhance a company's goals while further building on my academic and practical knowledge, refining my computer programming skills,  and augmenting the communication proficiency required to strengthen interdisciplinary professional relationships. On a personal level, I am deeply interested in becoming an artisan of computer programming by applying abilities I have already obtained, as well as cutting-edge techniques I have yet to learn. I am currently most comfortable with front end development having a strong understanding of .net and React.js. As a graduate of Ball State University’s undergraduate Computer Science program, I possess the problem-solving, organizational, critical thinking, and fundamental interpersonal skills in order to strive for excellence within the company. 
 
 ## Education
 ### Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
 
 ## Work Experience
 ### Software Engineer of Puma Project, Accutech | Muncie, IN | 10/2019 – 05/2020
-* ***Willing to discuss project but cannot provide code or functionality due to NDA***
+* ***Willing to discuss and elaborate on project, but unfortunately cannot provide code or functionality due to NDA***
 * Experienced working with a high-end trust fund program created by a successful company in the field
 * Learned how to work in a team across many months and iterations of programming to continually deliver on demands set by the client
 * Became comfortable using new coding languages such as React Native in order to create a user interface in order to successfully utilize our client’s API
