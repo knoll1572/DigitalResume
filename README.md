@@ -14,3 +14,16 @@
 * Demonstrated flexibility to work in multiple positions within the dining hall.  Each required learning a systematic set of rules as well as the ability to integrate with different staffing departments
 * Help to competently and safely prepare, maintain, and distribute meals for the Ball State community
 * Handled customer service requests and complaints to better serve needs in a respectful and responsible way
+
+## Proficiencies
+* Python
+* Java
+* Front End
+* Full Stack
+* Agile
+* Object Oriented Programming
+* Sequel
+* Microsoft
+  * Word
+  * Excel
+  * PowerPoint
