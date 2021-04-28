@@ -1,8 +1,8 @@
 # Jacob C. Knoll
 
 ## Contact Me
-* knoll1572@gmail.com
 * 708.710.4499
+* knoll1572@gmail.com
 
 ## Education
 Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
