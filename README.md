@@ -1,3 +1,6 @@
+## About Me
+I am a graduate from Ball State University with a bachelor’s degree in Computer Science.  I have a passion for being able to create something new using code and I feel a great sense of accomplishment when doing so.  I am looking to enhance my academic goals, further future career prospects, refine skills required for interdisciplinary professional relationships, and better develop knowledge about computer programming.  On a personal level, I am deeply interested in learning to become an artisan of computer programming using knowledge I have already obtained, as well as information I have yet to learn.  I am most comfortable with front end development having a strong understanding of .net and React.js.  As a graduate of Ball State University’s undergraduate Computer Science program, I possess the problem-solving, organizational, critical thinking, and fundamental skills in order to strive for excellence within the company. 
+
 ## Education
 ### Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
 
