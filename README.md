@@ -1,12 +1,11 @@
 # Jacob C. Knoll
 
 ## Contact Me
-Email | Phone | Mail
------------- | ------------- | -------------
-knoll1572@gmail.com | 708.710.4499 | 4239 Termunde Drive Alsip, IL
+* knoll1572@gmail.com
+* 708.710.4499
 
 ## Education
-### Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
+Ball State University: Muncie, IN  |  Bachelor of Science Degree: Computer Science  |  08/2016 – 05/2020
 
 ## Work Experience
 ### Software Engineer of Puma Project, Accutech | Muncie, IN | 10/2019 – 05/2020
